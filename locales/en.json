@@ -1,0 +1,13 @@
+{
+  "Tap to set": "Tap to set",
+  "pages.mainPage.name": "Air Quality Light",
+  "pages.mainPage.sections.airquality.name": "Check air quality of this location",
+  "pages.mainPage.settings.location.name": "Location (LATITUDE,LONGITUDE)",
+  "pages.mainPage.settings.scheduleInterval.name": "How often to check air quality?",
+  "pages.mainPage.sections.lights.name": "Set the color of this light",
+  "pages.mainPage.settings.colorLight.name": "Which light to use?",
+  "pages.mainPage.settings.scheduleInterval.options.15 minutes.name": "15 minutes",
+  "pages.mainPage.settings.scheduleInterval.options.30 minutes.name": "30 minutes",
+  "pages.mainPage.settings.scheduleInterval.options.45 minutes.name": "45 minutes",
+  "pages.mainPage.settings.scheduleInterval.options.60 minutes.name": "60 minutes"
+}

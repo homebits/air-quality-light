@@ -1,0 +1,22 @@
+{
+  "name": "smartthings-air-quality-light",
+  "version": "0.1.0",
+  "description": "A SmartApp that changes light color according to air quality.",
+  "repository": {
+    "url": "https://github.com/smartthings-aqi/air-quality-light"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@smartthings/smartapp": "^3.0.1",
+    "axios": "^1.2.2"
+  },
+  "devDependencies": {
+    "express": "^4.17.3"
+  },
+  "engines": {
+    "node": "^14"
+  }
+}
